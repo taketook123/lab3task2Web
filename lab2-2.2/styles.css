@@ -1,0 +1,42 @@
+body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%;
+  height: 90vh;
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+}
+
+.first {
+  width: 54%;
+  background-color: blue;
+}
+
+.fourth {
+  width: 54%;
+  height: 60vh;
+}
+
+.third {
+  width: 54%;
+  background-color: blue;
+}
+
+.second {
+  background-color: yellow;
+  width: 12%;
+}
+
+.no{
+  width: 12%;
+}

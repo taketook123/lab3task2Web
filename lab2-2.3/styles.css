@@ -1,0 +1,48 @@
+body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.main {
+  width: 500px;
+  height: 604px;
+  text-align: center;
+  border: 1px solid black;
+  display: flex;
+  margin-top: 10px;
+  border: 1px solid black;
+}
+
+.first {
+  width: 300px;
+  background-color: blue;
+  height: 100px;
+  border: 1px solid black;
+}
+
+.fourth {
+  width: 300px;
+  height: 400px;
+  border: 1px solid black;
+}
+
+.third {
+  width: 300px;
+  background-color: blue;
+  height: 100px;
+  border: 1px solid black;
+}
+
+.second {
+  background-color: yellow;
+  height: 604px;
+  width: 100px;
+  border: 1px solid black;
+}
+
+.no {
+  width: 100px;
+  border: 1px solid black;
+  height: 604px;
+}

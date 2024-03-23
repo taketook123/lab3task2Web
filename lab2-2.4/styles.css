@@ -1,0 +1,47 @@
+body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.main {
+  width: 90%;
+  height: 90vh;
+  text-align: center;
+  display: flex;
+  margin-top: 10px;
+}
+
+.cont {
+  width: 54%;
+}
+
+.first {
+  background-color: blue;
+  height: 15.5vh;
+  border: 1px solid black;
+}
+
+.fourth {
+  height: 59vh;
+  border: 1px solid black;
+}
+
+.third {
+  background-color: blue;
+  height: 15vh;
+  border: 1px solid black;
+}
+
+.second {
+  background-color: yellow;
+  height: 90vh;
+  width: 18%;
+  border: 1px solid black;
+}
+
+.no {
+  width: 18%;
+  border: 1px solid black;
+  height: 90vh;
+}
